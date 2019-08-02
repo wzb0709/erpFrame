@@ -1,0 +1,12 @@
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+.ant-tabs-bar{
+  border-bottom: 0 !important;
+}
